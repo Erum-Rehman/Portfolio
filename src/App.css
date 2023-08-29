@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css?family=Coiny&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.7.1/css/all.css');
+@media only screen and (max-width: 770px){
+
+.carousel-caption{
+ 
+  /* margin-left: 270px; */
+  padding-top: 0px;
+  padding-bottom: 0px;
+  top: 200px;
+}
+.jss9{
+  margin-left: 0px!important;
+}
+}
+#home{
+font-family: 'Coiny', cursive;
+text-shadow: -5px -5px 10px black;
+font-size: 20px;
+background-image: url("./images/background.jpg");
+height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+
+position: relative;
+z-index: -10;
+}
+.carousel-caption{
+ 
+    text-shadow: -5px -5px 10px black;
+}
+.carousel-caption h5{
+  text-shadow: -5px -5px 10px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#home-overlay{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -5;
+  background-color: rgba(0, 0, 0, 0.5)
+}
+.main-content{
+    color: white;
+    background-color: #333333;
+    size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: none;
+    font-size: 16px;
+    /* padding-left: 10%; */
+    /* padding-right: 10%; */
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.Certification{
+    width: 100%;
+    height: 100%;
+}
+.resume-content-area{
+  padding: 0px!important;
+}
+.MuiAppBar-colorPrimary{
+  background-color: transparent!important;
+}
+.resume{
+  color: white;
+    background-color: #333333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+  padding: 0px!important;
+  padding-top: 20px;
+  text-align: left;
+}
+.resume-data{
+  padding-left: 20px!important;
+}
+.resume-heading{
+  margin-top: 15px;
+  font-family: 'Coiny', cursive;
+  text-shadow: -5px -5px 10px black;
+  color: #cfd2d3;
+}
+.resume-content{
+  font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.project-links{
+  background-color: #333;
+  border-radius: 5px;
+  /* width: 35%; */
+  text-align: center;
+}
+.project-links:hover{
+  text-decoration: none;
+  background-color: rgb(100, 124, 131);
+}
+.project-link-button{
+  color: white!important;
+}
+.certificate-panel{
+  margin-bottom: 20px;
+  border-radius: 5px!important;
+}
+@media only screen and (max-width: 360px){
+  .makeStyles-content-9{
+    margin-left: 0px!important;
+  }
+  .small-screen-profile{
+    /* margin-left: -280px; */
+    padding: 0px!important;
+  }
+  .jss9{
+    margin-left: 0px!important;
+  }
+}
+@media only screen and (max-width: 441px){
+  .makeStyles-content-9{
+    margin-left: 0px!important;
+  }
+  .small-screen-profile{
+    /* margin-left: -280px; */
+    padding: 0px!important;
+  }
+  .jss9{
+    margin-left: 0px!important;
+  }
+}
+@media only screen and (max-width: 320px){
+  .makeStyles-content-9{
+    margin-left: 0px!important;
+  }
+  .small-screen-profile{
+    /* margin-left: -280px; */
+    padding: 0px!important;
+  }
+  .jss9{
+    margin-left: 0px!important;
+  }
+}
+@media only screen and (max-width: 375px){
+  .makeStyles-content-9{
+    margin-left: 0px!important;
+  }
+  .small-screen-profile{
+    /* margin-left: -280px; */
+    padding: 0px!important;
+  }
+  .jss9{
+    margin-left: 0px!important;
+  }
+}
+@media only screen and (max-width: 414px){
+  .makeStyles-content-9{
+    margin-left: 0px!important;
+  }
+  .small-screen-profile{
+    /* margin-left: -280px; */
+    padding: 0px!important;
+  }
+  .jss9{
+    margin-left: 0px!important;
+  }
+}
+.MuiInputLabel-outlined.MuiInputLabel-marginDense{
+  color: rgb(191, 170, 214)!important;
+}
+label{
+  color: white;
+}
+
+.front,
+.back {
+  background-size: cover;
+}
+
+.back {
+  background-image: url(https://images.unsplash.com/photo-1544511916-0148ccdeb877?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1901&q=80i&auto=format&fit=crop);
+}
+
+.front {
+  background-image: url(https://images.unsplash.com/photo-1540206395-68808572332f?ixlib=rb-1.2.1&w=1181&q=80&auto=format&fit=crop);
+}
+.main-links{
+  color: rgb(132, 140, 158)!important;
+}
+.main-links:hover{
+  text-decoration: none!important;
+}
+
+.MuiSvgIcon-root{
+  z-index: 0px!important;
+}
+
+a:hover{
+  text-decoration: none!important;
+  color: black!important;
+}
